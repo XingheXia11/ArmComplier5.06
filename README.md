@@ -1,5 +1,5 @@
 # ArmComplier5.06
-MDK5.36后不再支持AC5编译器，需要跑需要自己安装
+MDK5.36后不再支持AC5（ARM Compiler version5）编译器，想跑需要自己安装
 将两个压缩包解压后的四个文件夹组成名为ARMCC的文件夹
 将其移动到Keil 5安装目录下的ARM文件夹内
 打开Keil 5选择Manage Project Items
